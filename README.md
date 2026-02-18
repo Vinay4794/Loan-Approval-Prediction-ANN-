@@ -152,7 +152,7 @@ TensorFlow / Keras
 
 # 🚀 Installation
 1️⃣ Clone the repository
-git clone https://github.com/Vinay4794/loan-ann-prediction.git
+git clone https://github.com/Vinay4794/Loan-Approval-Prediction-ANN-
 cd loan-ann-prediction
 
 
