@@ -151,6 +151,7 @@ TensorFlow / Keras
 
 
 # 🚀 Installation
+
 1️⃣ Clone the repository
 git clone https://github.com/Vinay4794/Loan-Approval-Prediction-ANN-
 cd loan-ann-prediction
@@ -197,7 +198,7 @@ Model deployment using Streamlit or Flask
 Handling class imbalance
 
 
-#🎓 Academic Relevance
+# 🎓 Academic Relevance
 
 This project showcases:
 
